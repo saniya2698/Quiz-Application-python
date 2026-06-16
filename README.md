@@ -21,6 +21,8 @@ The project demonstrates the practical implementation of fundamental Python conc
 * Beginner-friendly code written using only basic Python concepts.
 <img width="707" height="586" alt="image" src="https://github.com/user-attachments/assets/2b7df0b5-dbe7-49ac-af73-ebcc873bf797" />
 
+<img width="693" height="234" alt="image" src="https://github.com/user-attachments/assets/bc9d42a4-d8a2-49ec-a373-b5ca2b70892e" />
+
 
 
 ## Concepts Used
